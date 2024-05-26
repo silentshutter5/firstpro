@@ -1,3 +1,19 @@
-.colortext{
-    color:red
+title{
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.paragraph{
+    background-color: beige;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sub{
+    background-color: aqua;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    float: left;
 }
